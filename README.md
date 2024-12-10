@@ -2,6 +2,8 @@
 
 BlockBot is an AI-powered blockchain chatbot designed to assist users with various blockchain-related queries. It is tailored for both beginners and advanced users, making blockchain technology more accessible and interactive.
 
+![BLOCKBOT](https://github.com/user-attachments/assets/f1570859-3e1a-4089-8b5c-dfbb875dca1a)
+
 ## Features
 
 - **Wallet Validation**: Validate and manage blockchain wallet addresses securely.
