@@ -17,7 +17,7 @@ BlockBot is an AI-powered blockchain chatbot designed to assist users with vario
 
 ## Getting Started
 
-Follow the instructions to set up and run the project on your local machine.
+Follow the instructions to set up and run the project.
 
 ## Technologies Used
 
